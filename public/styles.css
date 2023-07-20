@@ -143,7 +143,7 @@ body {
 }
 
 .recent span {
-    padding: 0.5rem;
+    padding: 0.35rem;
 }
 
 .item {
@@ -157,6 +157,7 @@ body {
 
 .info {
     flex-direction: column;
+    margin-left: .5rem;
 }
 
 .name {
@@ -170,4 +171,5 @@ body {
 .item-price {
     font-weight: var(--bold-font);
     font-size: 2rem;
+    margin-right: 1rem;
 }
